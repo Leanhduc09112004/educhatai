@@ -1,0 +1,6 @@
+{
+  "name": "EduChat AI",
+  "description": "Ứng dụng trợ giảng AI hỗ trợ học tập với Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
